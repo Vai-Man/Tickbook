@@ -1,0 +1,9 @@
+build/
+cmake-build-*/
+*.o
+*.obj
+*.exe
+*.itch
+*.NASDAQ_ITCH50
+.vs/
+.vscode/
